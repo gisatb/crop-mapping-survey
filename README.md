@@ -3,6 +3,8 @@
 An **interactive Streamlit web app** to validate crop classification using **ground truth survey points** and **NDVI values**.  
 
 🌐 **Live Demo**: [Your Streamlit App URL](https://your-streamlit-url.streamlit.app)
+Here’s the dashboard in action 👇
+![Crop Dashboard Demo](survey-dashboard.png)
 
 ---
 
@@ -23,12 +25,6 @@ An **interactive Streamlit web app** to validate crop classification using **gro
   - Survey vs classified match count  
   - NDVI distribution per crop  
   - Survey timeline
-
----
-
-## 📸 Demo
-
-![Crop Dashboard Demo](assets/demo.gif)
 
 ---
 
